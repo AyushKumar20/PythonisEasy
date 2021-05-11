@@ -5,4 +5,4 @@ These codes are a part of an online course called "Python is easy", 11 Homework 
 
 2. Homework #2: Functions
 
-3.
+3. Homework #3: "If" Statements
