@@ -1,21 +1,40 @@
+# Song name
 SongName = "Kya Tum Naraaz Ho?"
+# Artist name
 Artist = "Tanmaya Bhatnagar"
-LyricsAndComposition = "Tanmaya Bhatnagar"          #Lyrics & Composition done by
+# Lyrics & Composition done by
+LyricsAndComposition = "Tanmaya Bhatnagar"
+# genre of the song
 Genre = "Rhythm and blues"
-Duration = 3.32                                     #Duration in min
-DurationInSeconds = 212                             #Duration in sec
+# Duration in minutes
+Duration = 3.32
+# Duration in sec
+DurationInSeconds = 212
+# Release date
 ReleaseDate = "April 10, 2020"
+# Album of the song
 Album = "Kya Tum Naraaz Ho?(Raw)"
+# Music video
 MusicVideo = "No"
-SampledIn = "Tanmaya Bhatnagar - Raat Adhoori"      #Song sampled in another song of same artist
-TempoBPM = 97                                       #Tempo of the track is beats per minute
-LoudnessDB = -16.51                                 #This is average loudness of the track in decibles(db)
+# Sampled in
+SampledIn = "Tanmaya Bhatnagar - Raat Adhoori"
+# Tempo in beats per min
+TempoBPM = 97
+# Loudness in decibles(db)
+LoudnessDB = -16.51
+# Key
 Key = "c# Major"
+# Explicit content
 Explicit = "No"
+# Production
 Studio = "None"
-Distributor = "CD Baby"                             #Digital Music Distribution
-AvailableOn = "Apple Music, Spotify, Youtube"       #Availibility of music on platforms
-ViewsOnYT = 157730                                  #Views on Youtube
+# Distributor
+Distributor = "CD Baby"
+# Availability
+AvailableOn = "Apple Music, Spotify, Youtube"
+# Views on Youtube
+ViewsOnYT = 157730
+# Printing metadata of "Kya Tum Naraaz Ho?"
 print(SongName)
 print(Artist)
 print(LyricsAndComposition)
